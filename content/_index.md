@@ -32,6 +32,4 @@ Contact: [LinkedIn](https://www.linkedin.com/in/nathan-herder-3a361b150/), [nate
 
 &nbsp;
 
-&nbsp;
-
 [Calvin University Department of Computer Science website](https://computing.calvin.edu)
