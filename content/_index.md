@@ -25,10 +25,10 @@ Contact: [LinkedIn](https://www.linkedin.com/in/nathan-herder-3a361b150/), [nate
 + Ian's paragraph or two containing vision statement and summary of project goes here
 + Links to your code base, link to final report, and link to research paper??
 
-+ Nate's paragraph or two containing vision statement and summary of project goes here
-+ View my project on [Github](https://github.com/CS-396-398-Calvin-2020-Ian-Nate/visualizations_audialization), link to final report, and link to research paper??
-
 &nbsp;
+
++ Nate's paragraph or two containing vision statement and summary of project goes here
++ View my project on [GitHub](https://github.com/CS-396-398-Calvin-2020-Ian-Nate/visualizations_audialization), link to final report, and link to research paper??
 
 &nbsp;
 
