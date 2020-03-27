@@ -1,34 +1,37 @@
-# Calvin University Computer Science Senior Design 2020 
+# **Calvin University Computer Science Senior Design 2020**
 
-## About us and our projects
+***
+## **About Us**
 
-### Ian Adams: 
+### Ian Adams:
++ Description/introduction of Ian
++ Ian's contact info (something available after graduation)
 
-1. vision statement and summary of project
-2. basic informaiton about us. 1-2 sentences
-3. link to your code base
-4. link to final presentation
-5. final report link
-6. research papers???
+### Nate Herder:
+I grew up in Portage, Michigan. Please feel free to contact me with any questions regarding my project.
 
-[TSGL](https://github.com/Calvin-CS/TSGL) - A thread-safe graphics library perfect for drawing graphics. You can do a wide variety of things with TSGL, including: image manipulation and rendering (.bmp, .jpeg, and .png image formats supported), 2D polygon drawing (rectangles, circles, triangles, etc.), text rendering, animations with keyboard and/or mouse events, and much more. All drawing and rendering is done with threads and in parallel.
+Contact: [LinkedIn](https://www.linkedin.com/in/nathan-herder-3a361b150/), [nateherder@gmail.com](mailto:nateherder@gmail.com)
 
-### Nate Herder
-**From:** Portage, Michigan
+***
+## **Technology Used**
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/nathan-herder-3a361b150/), [nateherder@gmail.com](mailto:nateherder@gmail.com)
+[TSGL](https://github.com/Calvin-CS/TSGL): A thread-safe graphics library perfect for drawing graphics. You can do a wide variety of things with TSGL, including: image manipulation and rendering (.bmp, .jpeg, and .png image formats supported), 2D polygon drawing (rectangles, circles, triangles, etc.), text rendering, animations with keyboard and/or mouse events, and much more. All drawing and rendering is done with threads and in parallel.
 
+[TSAL](https://github.com/Calvin-CS/TSAL): A thread safe audio library that uses audiolizations to assist in the understanding of concurrent and parallel processing.
 
-1. vision statement and summary of project
-2. basic informaiton about us. 1-2 sentences
-3. link to your code base
-4. link to final presentation
-5. final report link
-6. research papers???
+***
+## **Our Projects**
 
-[TSAL](https://github.com/Calvin-CS/TSAL) - A Thread Safe Audio Library that uses audiolizations to assist in the understanding of concurrent and parallel processing.
++ Ian's paragraph or two containing vision statement and summary of project goes here
++ Links to your code base, link to final report, and link to research paper??
 
++ Nate's paragraph or two containing vision statement and summary of project goes here
++ View my project on [Github](https://github.com/CS-396-398-Calvin-2020-Ian-Nate/visualizations_audialization), link to final report, and link to research paper??
 
+&nbsp;
 
+&nbsp;
 
-[Calvin University Computer Science Department](https://computing.calvin.edu)
+&nbsp;
+
+[Calvin University Department of Computer Science website](https://computing.calvin.edu)

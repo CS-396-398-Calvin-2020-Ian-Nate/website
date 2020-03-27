@@ -32,7 +32,7 @@ publishdir = "docs"
 
     [languages.en.params.logo]
       logoText = "TSGL & TSAL"
-      #logoHomeLink = "https://github.com/Calvin-CS"
+      logoHomeLink = "https://github.com/Calvin-CS"
     # or
     #
     # path = "/img/your-example-logo.svg"
