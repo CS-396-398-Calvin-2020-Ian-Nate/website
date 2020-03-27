@@ -2,7 +2,7 @@
 
 ## About us and our projects
 
-### Ian Admas: 
+### Ian Adams: 
 
 1. vision statement and summary of project
 2. basic informaiton about us. 1-2 sentences

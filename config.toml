@@ -1,4 +1,4 @@
-baseurl = "https://nherder41.github.io/nate_sd_website_test/"
+baseurl = "https://cs-396-398-calvin-2020-ian-nate.github.io/website/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
@@ -31,7 +31,7 @@ publishdir = "docs"
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "TSGL & TSGL"
+      logoText = "TSGL & TSAL"
       #logoHomeLink = "https://github.com/Calvin-CS"
     # or
     #
