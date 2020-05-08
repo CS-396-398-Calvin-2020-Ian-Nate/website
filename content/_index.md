@@ -6,7 +6,7 @@
 **Ian Adams:**
 Ian Adams is currently a senior Bachelor's of Computer Science Major at Calvin University. After he graduates in Spring 2020, he plans to pursue a career in software development.
 
-Contact: [ian.sam.adams@gmail.com](mailto:ian.sam.adams@gmail.com) 
+Contact: [LinkedIn](https://www.linkedin.com/in/ian-a-261b75a1/),[ian.sam.adams@gmail.com](mailto:ian.sam.adams@gmail.com) 
 
 **Nate Herder:**
 I grew up in Portage, Michigan and attended Kalamazoo Christian High School. I plan to pursue a career in software development.  Please feel free to contact me with any questions regarding my project.
