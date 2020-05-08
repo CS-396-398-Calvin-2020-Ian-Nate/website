@@ -26,7 +26,7 @@ Contact: [LinkedIn](https://www.linkedin.com/in/nathan-herder-3a361b150/), [nate
 
 + Vision: To expand TSGL’s functionality so that it has three-dimensional graphical capabilities.
 
-+ Summary: TSGL is Calvin’s Thread-Safe Graphics Library. Currently, there is a working object-oriented version of TSGL that runs on Linux, utilizing underlying OpenGL3 calls. In Fall 2019, TSGL was limited to two-dimensional functionality. In order to provide a more complete parallel graphical experience, increased functionality and was an important next step for TSGL.
+Summary: TSGL is Calvin’s Thread-Safe Graphics Library. Currently, there is a working object-oriented version of TSGL that runs on Linux, utilizing underlying OpenGL3 calls. In Fall 2019, TSGL was limited to two-dimensional functionality. In order to provide a more complete parallel graphical experience, increased functionality and was an important next step for TSGL.
 In order to take the logical next step towards increasing TSGL’s functionality, Ian Adams worked to add three-dimensional graphical capabilities to the library while maintaining its thread-safe status. In the process, some functionality was lost; while Adams has restored much of what was lost, extra restoration will be required before the current version has the required functionality to be considered stable.
 As such, the work done has not yet been consolidated into the master branch of the TSGL GitHub repository, The current version of the project that contains a large amount of the desired 3D functionality resides within the SeniorProjectIA branch. With modification the branch will hopefully be ready to move into master by the end of summer 2020.
 
