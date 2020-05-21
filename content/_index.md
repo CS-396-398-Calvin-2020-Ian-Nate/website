@@ -33,11 +33,12 @@ In order to take the logical next step towards increasing TSGL’s functionality
 As such, the work done has not yet been consolidated into the master branch of the TSGL GitHub repository, The current version of the project that contains a large amount of the desired 3D functionality resides within the SeniorProjectIA branch. With modification the branch will hopefully be ready to move into master by the end of summer 2020.
 
 + View Ian's project on [GitHub](https://github.com/Calvin-CS/TSGL/tree/SeniorProjectIA)
-+ [Final Project Report](https://cs-396-398-calvin-2020-ian-nate.github.io/website/Final_Report_IA_CS398.pdf)
++ [Ian Final Project Report](https://cs-396-398-calvin-2020-ian-nate.github.io/website/Final_Report_IA_CS398.pdf)
 
 **Nate Herder:**
 + The vision and summary of my senior design project has been to create a library that joins together the functionality of two other c++ libraries that have been created by Calvin Students over the years. Those two libraries being TSGL (Thread Safe Graphics Library) and TSAL (Thread Safe Audio Library). The purpose of this wasn’t only to make a higher level general purpose library that combines the functionality of both libraries, but also to create and explore some pedagogical tools to potentially help computer science students to understand various sorting algorithms through visualizations and audializations.  My Audio Visual library serves to give others the ability to create programs that utilize both the visual elements of TSGL combined with audio. The other main goal that the library fulfills is allowing audialization, visualization, or a combination of the two to be played.
-+ View Nate's project on [GitHub](https://github.com/CS-396-398-Calvin-2020-Ian-Nate/visualizations_audialization), link to final report, and link to research paper yet to come
++ View Nate's project on [GitHub](https://github.com/CS-396-398-Calvin-2020-Ian-Nate/visualizations_audialization)
++[Nate Final Project Report](https://cs-396-398-calvin-2020-ian-nate.github.io/website/Final_Report_NH_CS398.pdf)
 
 &nbsp;
 
